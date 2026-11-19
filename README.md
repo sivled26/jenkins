@@ -24,3 +24,5 @@ Ejemplo de pedido:
 POST /api/pedidos
 { "rut": "12.345.678-5", "region": "RM", "items": [{ "productoId": 1, "cantidad": 2 }], "cupon": "BIENVENIDA10" }
 ```
+
+Pipeline administrado por Jenkins.
