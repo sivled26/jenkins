@@ -2,7 +2,7 @@
 
 const { ErrorNegocio } = require('../errors');
 
-const IVA = 0.18;
+const IVA = 0.19;
 const MAX_CANTIDAD_POR_ITEM = 50;
 
 // Map (y no objeto literal) para evitar inyección de propiedades tipo "__proto__".
